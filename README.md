@@ -8,7 +8,7 @@ With a background that bridges software engineering and design, I value clarity,
 Beyond research and development, I am interested in the creative dimension of computing — exploring how technical rigor and thoughtful design can coexist to produce meaningful digital experiences.
 
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hollowknight89) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rudan-2366891a3/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@omonstrosemnome) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/rudanx) 
 
 # 💻 Tech Stack:
@@ -26,9 +26,6 @@ Beyond research and development, I am interested in the creative dimension of co
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gabrielrudan&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gabrielrudan&icon=7&color=1)](https://visitcount.itsvg.in)
