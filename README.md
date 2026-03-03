@@ -1,5 +1,11 @@
-# 💫 About Me:
-🎨💻 Hey there! Sou um explorador da intersecção entre o Design UI/UX e a Ciência de Dados! Trabalho para dar vida a experiências incríveis enquanto mergulho nos dados. 💫 Atualmente, estou moldando pixels e decifrando padrões.<br><br>📚 Quando não estou imerso em linhas de código ou esquemas de design, me encontrarás com o nariz enfiado em um livro ou rabiscando ideias para meus próprios escritos. ✍️ A combinação entre tecnologia e expressão criativa é o meu forte.<br><br>💡 Sou um mestre da engenharia de software, transformando conceitos em realidade digital. 💡 Estou cursando Ciência da Computação na Universidade Federal do Ceará, onde mergulho mais fundo na magia dos algoritmos e da programação.<br><br>💡✨ Fascinado pela vertente criativa da computação, estou sempre buscando novas maneiras de unir o melhor dos mundos técnico e artístico. 💡✨
+# About Me:
+I am a M.Sc. student in Computer Science at the Federal University of Ceará (UFC), focused on Machine Learning, Large Language Models (LLMs), and Intelligent Systems.
+
+My work lies at the intersection of research and real-world applications. I design and develop LLM-based architectures — including RAG systems, agents, and memory-enabled pipelines — as well as data-driven solutions for transparency systems and educational technologies. I am particularly interested in model evaluation, system architecture, and building scalable AI applications grounded in solid engineering principles.
+
+With a background that bridges software engineering and design, I value clarity, structure, and usability in the systems I build. I am motivated by transforming complex concepts into robust, practical solutions that generate measurable impact.
+
+Beyond research and development, I am interested in the creative dimension of computing — exploring how technical rigor and thoughtful design can coexist to produce meaningful digital experiences.
 
 
 ## 🌐 Socials:
